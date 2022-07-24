@@ -10,20 +10,16 @@
 
 - [Descrição do projeto](#descrição-do-projeto)
 
-- [Funcionalidades](#funcionalidades)
-
-- [Aplicação](#aplicação)
-
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
-
-- [Acesso ao projeto](#acesso-ao-projeto)
-
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
-
-- [Desenvolvedores](#desenvolvedores)
 
 ## Descrição do projeto 
 
 <p align="justify">
  Projeto desenvolvido em java durante a Imersão java da Alura. O projeto consiste em consumir API's para criar figurinhas para o whatsapp.
 </p>
+
+## Ferramentas utilizadas
+
+- ``Java 8``
+- ``InteliJ IDEA``
+- ``Paradigma de orientação a objetos``
